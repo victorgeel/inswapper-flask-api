@@ -1,5 +1,8 @@
+basicsr
+facelib
 Pillow
 PyYAML
+requests
 addict
 flask
 future
