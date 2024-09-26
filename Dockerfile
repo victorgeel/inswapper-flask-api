@@ -16,4 +16,4 @@ RUN git lfs install
 
 RUN pip3 install -r requirements.txt
 
-CMD ["python3","app.py","-H","0.0.0.0","-p","5000"]
+CMD ["python3","app.py","-H","0.0.0.0","-p","80"]
