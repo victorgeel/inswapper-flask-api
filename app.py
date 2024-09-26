@@ -80,7 +80,7 @@ def get_args():
         '-p', '--port',
         help='Port to listen on',
         type=int,
-        default=8090
+        default=80
     )
 
     parser.add_argument(
